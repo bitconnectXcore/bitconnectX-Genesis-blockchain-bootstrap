@@ -10,7 +10,7 @@ BlockChain Node: [bitconnectX GitHub](https://github.com/bitconnectcoin/bitconne
 
 **If You Have Ran The bitconnectX BlockChain On Your Device:**
 
-**1.** [Download the latest bootstrap files.](https://github.com/bitconnectCore/bitconnectX-Genesis-blockchain-bootstrap/releases "The Latest BCCX Bootstrap Files Release")
+**1.** [Download the latest bootstrap files.](https://github.com/bitconnectXcore/bitconnectX-Genesis-blockchain-bootstrap/releases "The Latest BCCX Bootstrap Files Release")
 
 **2.** Find the downloaded bitconnectx.zip file and double-click. This will unzip the file and show a folder named bitconnectx.
 
@@ -40,7 +40,7 @@ Open Finder and in the program menu select Go > To Folder and enter the above pa
 
 **If You Have Not Ran The bitconnectX Genesis BlockChain On Your Device:**
 
-**1.** [Download the latest bootstrap files.](https://github.com/bitconnectCore/bitconnectX-Genesis-blockchain-bootstrap/releases "The Latest BCCX Bootstrap Files Release")
+**1.** [Download the latest bootstrap files.](https://github.com/bitconnectXcore/bitconnectX-Genesis-blockchain-bootstrap/releases "The Latest BCCX Bootstrap Files Release")
 
 **2.** Find the downloaded bitconnectx.zip file and double-click. This will unzip the file and show a folder named bitconnectx.
 
