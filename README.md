@@ -1,10 +1,12 @@
 # bitconnectX Genesis BlockChain BootStrap
 
-Chain-data files for [BCCX / BitConnect X / bitconnectX Genesis blockchain](https://chainz.cryptoid.info/bccx/ "BCCX BlockChain"). Using these files reduces time in finding peers and/or syncing the [BCCX / BitConnect X / bitconnectX Genesis blockchain](https://chainz.cryptoid.info/bccx/ "BCCX BlockChain").
+**Chain-data files for** [BCCX / BitConnect X / bitconnectX Genesis blockchain](https://chainz.cryptoid.info/bccx/ "BCCX BlockChain")**.** **Using these files reduces time in finding peers and/or syncing the** [BCCX / BitConnect X / bitconnectX Genesis blockchain](https://chainz.cryptoid.info/bccx/ "BCCX BlockChain")**.**
 
-General bitconnect BlockChain Node Tutorials: [New](https://youtu.be/RTieeNXGNrE "New Wallet Tutorial") | [Old](https://youtu.be/OFPNmYAQYdw "Old Wallet Tutorial") *(same principles for BCCX)*
+**General bitconnect BlockChain Node Tutorials:** [New](https://youtu.be/RTieeNXGNrE "New Wallet Tutorial") | [Old](https://youtu.be/OFPNmYAQYdw "Old Wallet Tutorial") *(same principles for BCCX)*
 
-BlockChain Node: [bitconnectX GitHub](https://github.com/bitconnectcoin/bitconnectx/tree/master/wallet "bitconnectX GitHub")
+**BlockChain Node:** [bitconnectX GitHub](https://github.com/bitconnectcoin/bitconnectx/tree/master/wallet "bitconnectX GitHub")
+
+### GitHub Release Direct Download: [Here](https://github.com/bitconnectXcore/bitconnectX-Genesis-blockchain-bootstrap/releases/download/1.0/bitconnectx.zip "Download")
 
 ---
 
@@ -58,4 +60,24 @@ Open Finder and in the program menu select Go > To Folder and enter the above pa
 
 ---
 
-![alt text](https://static.wixstatic.com/media/28f073_b193ddc57217466fa9f29fb256bd43e7~mv2.png/v1/fill/w_1046,h_1049/WaveX.PNG.png "WaveX")
+# **Latest Release:** [bitconnectX Block Height 127,000 (March 2020)](https://github.com/bitconnectXcore/bitconnectX-Genesis-blockchain-bootstrap/releases "Latest Release") 
+
+**BCCX | BitConnect X | bitconnectX Genesis -** https://chainz.cryptoid.info/bccx/
+
+**BlockChain Block Height -** 127,000 *(March 2020)*
+
+
+**Contents**
+
+**1.** blk.0001.dat *(needed)*
+
+**2.** txleveldb folder *(needed)*
+
+**3.** bitconnectx.conf *(needed)*
+
+**4.** peers.dat *(optional)*
+
+
+**bitconnectx.Zip SHA256 CheckSum -** 1c25eefb2ab0d1573396c5e49e483d71d0a2923b0d3cad2dad52fd676743d11e
+
+**CheckSum Tool -** https://emn178.github.io/online-tools/sha256_checksum.html
