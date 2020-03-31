@@ -2,7 +2,7 @@
 
 **Chain-data files for** [BCCX / BitConnect X / bitconnectX Genesis blockchain](https://chainz.cryptoid.info/bccx/ "BCCX BlockChain")**.** **Using these files reduces time in finding peers and/or syncing the** [BCCX / BitConnect X / bitconnectX Genesis blockchain](https://chainz.cryptoid.info/bccx/ "BCCX BlockChain")**.**
 
-**General bitconnect BlockChain Node Tutorials:** [New](https://youtu.be/RTieeNXGNrE "New Wallet Tutorial") | [Old](https://youtu.be/OFPNmYAQYdw "Old Wallet Tutorial") *(same principles for BCCX)*
+**General bitconnect BlockChain Node Tutorials:** [New](https://youtu.be/RTieeNXGNrE "New Wallet Tutorial") | [Old](https://youtu.be/OFPNmYAQYdw "Old Wallet Tutorial") *For bitconnectCoin (same principle)*
 
 **BlockChain Node:** [bitconnectX GitHub](https://github.com/bitconnectcoin/bitconnectx/tree/master/wallet "bitconnectX GitHub")
 
